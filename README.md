@@ -1,5 +1,11 @@
+# Hi! I'm Daniel, rust and python enthusisast.
 ### Hi there 👋
-
+- 🔭 I’m currently working on a Simple OpenGL engine
+- 🌱 I’m currently learning OpenGL, noSQL, TinyML
+- 💬 Ask me about anything
+- 📫 How to reach me: Discord Mimikku#3200
+- ⚡ Fun fact: I like to draw and code lol
+ 
 <!--
 **Mimikkk/Mimikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
