@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="96">
       <a><img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width="96" height="70"/></a>
-      <br>Ugly C#&nbsp
+      <br>The other C#&nbsp
     </td>
     <td align="center" width="96">
       <a><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="96" height="40"/></a>
