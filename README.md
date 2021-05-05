@@ -12,6 +12,14 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <a><img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="70"/></a>
+      <br>Python&nbsp
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60" height="60"/></a>
+      <br>TypeScript&nbsp
+    </td>
+    <td align="center" width="96">
       <a><img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="96" height="70"/></a>
       <br>Rust&nbsp
     </td>
@@ -26,14 +34,6 @@
     <td align="center" width="96">
       <a><img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="96" height="70"/></a>
       <br>C#&nbsp
-    </td>
-    <td align="center" width="96">
-      <a><img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="70"/></a>
-      <br>Python&nbsp
-    </td>
-    <td align="center" width="96">
-      <a><img src="https://www.r-project.org/logo/Rlogo.png" width="60" height="60"/></a>
-      <br>R&nbsp
     </td>
     <td align="center" width="96">
       <a><img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width="96" height="70"/></a>
