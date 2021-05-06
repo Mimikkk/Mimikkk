@@ -1,8 +1,8 @@
 # Hi! I'm Daniel, Rust and Python/TypeScript enthusiast.
 ### Hello there! 👋
 - 🧑 A 21 year old computer science student.
-- 🔭 I’m currently working on a Arknights Discordbot along OpenGL engine using Silk.NET
-- 🌱 I’m currently learning OpenGL, TypeScript's Discord, TinyML
+- 🔭 I’m currently working on a Arknights Discordbot along a OpenGL engine using Silk.NET
+- 🌱 I’m currently learning Shaders, TypeScript's Discord, TinyML
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: Mimikku#3200, here!
 - ⚡ Fun fact: I can sketch, code and think about architecture at the same time
