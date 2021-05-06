@@ -1,4 +1,4 @@
-# Hi! I'm Daniel, rust and python enthusiast.
+# Hi! I'm Daniel, Rust and Python/TypeScript enthusiast.
 ### Hello there! 👋
 - 🧑 A 21 year old computer science student.
 - 🔭 I’m currently working on a Arknights Discordbot along OpenGL engine using Silk.NET
