@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a computer networks, web design and deep RL
 - 🌱 I’m currently learning about WebSockets, DOM injection, C/Rs-language unix servers, deep RL and TinyML
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord: Mimikku#3200, here!
+- 📫 How to reach me: Discord: Mimikku#5873, here!
 - ⚡ Fun fact: I can sketch, code and think about architecture at the same time
 
 
