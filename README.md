@@ -1,11 +1,11 @@
 # Hi! I'm Daniel, Rust and Python/TypeScript enthusiast.
 ### Hello there! 👋
 - 🧑 A 22 year old computer science student.
-- 🔭 I’m currently working on a computer networks, web design and deep RL
-- 🌱 I’m currently learning about SolidJS, DOM injection, Rs-language unix servers, deep RL and TinyML
+- 🔭 I’m currently working on web design, DOM framework from scratch
+- 🌱 I’m currently learning about DOM, deep RL and TinyML
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: Mimikku#5873, here!
-- ⚡ Fun fact: I can sketch, code and think about architecture at the same time
+- ⚡ Fact: I can sketch, code and think about architecture at the same time
 
 
 <h2> 🛠 &nbsp;My Fluency Stack</h2> 
