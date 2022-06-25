@@ -101,6 +101,9 @@
     <th>
       Vulkan
     </th>
+    <th>
+      WebAssembly
+    </th>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -126,6 +129,9 @@
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Vulkan_API_logo.svg">
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/37272798?v=4&s=400" width="72">
     </td>
   </tr>
 </table>
