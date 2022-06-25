@@ -31,6 +31,12 @@
       Other C#
     </th>
     <th>
+      Kotlin
+    </th>
+    <th>
+      PL/SQL
+    </th>
+    <th>
       Latex
     </th>
   </tr>
@@ -57,6 +63,12 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width="96" height="70">
     </td>
     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="96" height="70">
+    </td>
+    <td align="center" width="96">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WKHy7VVaQEamKwhoqunSjhPh7J6fQTpJvA&usqp=CAU" width="96" height="70">
+    </td>    
+    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="96" height="40">
     </td>
   </tr>
@@ -65,6 +77,9 @@
 <h2>✨&nbsp;Technologies I Enjoy</h2> 
 <table>
   <tr>
+    <th>
+      Node
+    </th>
     <th>
       React
     </th>
@@ -88,6 +103,9 @@
     </th>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="96">
+    </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="96">
     </td>
