@@ -2,7 +2,7 @@
 ### Hello there! 👋
 - 🧑 A 22 year old computer science student 🎓.
 - 🔭 I’m currently working in web design.
-- 🌱 I’m currently learning about global store managment + WASM.
+- 🌱 I’m currently learning about global store managment + microfrontend architecture
 - 💬 Ask me about anything.
 - 📫 How to reach me: Discord: Mimikku#5873, here!
 
