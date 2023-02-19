@@ -1,6 +1,6 @@
 # Hi! I'm Daniel, Rust and Python/TypeScript enthusiast.
 ### Hello there! 👋
-- 🧑 A 23 year old artificial inteligence student 🎓.
+- 🧑 A 23 year old CS engineer and a artificial inteligence graduate student 🎓.
 - 🔭 I’m currently working in web design and frontend development.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Discord: Mimikku#5873, here!
