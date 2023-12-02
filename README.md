@@ -1,12 +1,12 @@
 # Hi! I'm Daniel, Rust and Python/TypeScript enthusiast.
-### Hello there! 👋
+## Hello there! 👋
 - 🧑 A 23 year old Computer Science engineer and an artificial inteligence graduate student 🎓.
 - 🔭 I’m currently working in web as a frontend development, helping to oxidize the web world.
 - 💬 Ask me about anything.
 - 💻 Secretly working on a graphical engine using WebGPU and rust as a npm js/ts package as my masters.
 - 📫 How to reach me: Discord: Mimikku#5873, here!
 
-<h2> 🛠&nbsp;My Fluency Stack</h2> 
+## 🛠 My Fluency Stack
 <table>
   <tr>
     <th>
@@ -26,18 +26,6 @@
     </th>
     <th>
       C#
-    </th>
-    <th>
-      Other C#
-    </th>
-    <th>
-      Kotlin
-    </th>
-    <th>
-      PL/SQL
-    </th>
-    <th>
-      Latex
     </th>
   </tr>
   <tr>
@@ -59,24 +47,15 @@
     <td align="center" width="96">
       <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="96" height="70">
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" width="96" height="70">
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="96" height="70">
-    </td>
-    <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WKHy7VVaQEamKwhoqunSjhPh7J6fQTpJvA&usqp=CAU" width="96" height="70">
-    </td>    
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="96" height="40">
-    </td>
   </tr>
 </table>
 
-<h2>✨&nbsp;Technologies I Enjoy</h2> 
+## ✨ Technologies I Enjoy
 <table>
   <tr>
+    <th>
+      Vite
+    </th>
     <th>
       Node
     </th>
@@ -93,7 +72,7 @@
       FastAPI
     </th>
     <th>
-      PyTorch
+      Torch
     </th>
     <th>
       OpenGL
@@ -106,6 +85,9 @@
     </th>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="72">
+    </td>
     <td align="center" width="96">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="96">
     </td>
@@ -135,3 +117,18 @@
     </td>
   </tr>
 </table>
+
+## 📊 Statistics
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<thead>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mimikkk&show_icons=true&locale=en&theme=merko" alt="GitHub statistics" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Mimikkk&theme=merko" alt="GitHub streak" />
+    </td>
+  </tr>
+</thead>
+</table>
+
