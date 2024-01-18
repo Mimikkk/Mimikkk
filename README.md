@@ -119,6 +119,14 @@
 </table>
 
 ## 📊 Statistics
-<a href="https://github.com/Mimikkk/Mimikkk/blame/main/stats.svg">
-  <img src="stats.svg" style="width: 100%;" alt="Github statistics">
-</a>
+<table>
+<tr>
+<td align="center" valign="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimikkk&amp;hide=jupyter%20notebook&amp;layout=donut-vertical&amp;langs_count=12&amp;theme=merko" alt="GitHub langs" />
+</td>
+<td align="center" valign="center">
+    <img src="https://streak-stats.demolab.com/?user=Mimikkk&amp;theme=merko" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mimikkk&amp;show_icons=true&amp;locale=en&amp;theme=merko" alt="GitHub stats" />
+</td>
+</tr>
+</table>
