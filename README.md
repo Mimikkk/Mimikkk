@@ -119,4 +119,6 @@
 </table>
 
 ## 📊 Statistics
-<img src="https://github.com/Mimikkk/Mimikkk/blame/main/stats.svg" style="width: 100%;" alt="Github statistics">
+<a href="https://github.com/Mimikkk/Mimikkk/blame/main/stats.svg">
+  <img src="stats.svg" style="width: 100%;" alt="Github statistics">
+</a>
