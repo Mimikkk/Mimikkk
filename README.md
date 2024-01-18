@@ -119,16 +119,4 @@
 </table>
 
 ## 📊 Statistics
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<thead>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mimikkk&show_icons=true&locale=en&theme=merko" alt="GitHub statistics" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Mimikkk&theme=merko" alt="GitHub streak" />
-    </td>
-  </tr>
-</thead>
-</table>
-
+<img src="https://github.com/Mimikkk/Mimikkk/blame/main/stats.svg" style="width: 100%;" alt="Github statistics">
