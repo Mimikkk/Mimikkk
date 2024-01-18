@@ -121,7 +121,7 @@
 ## 📊 Statistics
 <table>
 <tr>
-<td align="center" valign="center">
+<td width="30%" align="center" valign="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimikkk&amp;hide=jupyter%20notebook&amp;layout=donut-vertical&amp;langs_count=12&amp;theme=merko" alt="GitHub langs" />
 </td>
 <td align="center" valign="center">
