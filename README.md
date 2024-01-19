@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in web as a frontend development, helping to oxidize the web world.
 - 💬 Ask me about anything.
 - 💻 Secretly working on a graphical engine using WebGPU and rust as a npm js/ts package as my masters.
-- 📫 How to reach me: Discord: Mimikku#5873, here!
+- 📫 How to reach me: Discord: mimikku, here!
 
 ## 🛠 My Fluency Stack
 <table>
@@ -125,8 +125,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimikkk&amp;hide=jupyter%20notebook&amp;layout=donut-vertical&amp;langs_count=12&amp;theme=merko" alt="GitHub langs" />
 </td>
 <td align="center" valign="center">
-    <img src="https://streak-stats.demolab.com/?user=Mimikkk&amp;theme=merko" alt="GitHub streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=Mimikkk&amp;show_icons=true&amp;locale=en&amp;theme=merko" alt="GitHub stats" />
+    <img src="https://streak-stats.demolab.com/?user=Mimikkk&amp;theme=merko" alt="GitHub streak" />
 </td>
 </tr>
 </table>
