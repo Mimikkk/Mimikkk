@@ -30,22 +30,22 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="70"/>
+      <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="72"/>
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="60" height="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="64" height="64">
     </td>
     <td align="center" width="96">
-      <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="96" height="70">
+      <img src="https://github.com/user-attachments/assets/9b873794-cb4a-416d-96b2-4bf3139c18d1" width="96" height="72">
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="96" height="70">
+      <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="96" height="72">
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="70">
+      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="72">
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="96" height="70">
+      <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="96" height="72">
     </td>
   </tr>
 </table>
