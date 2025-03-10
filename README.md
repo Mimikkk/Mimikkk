@@ -1,12 +1,12 @@
 # Hi! I'm Daniel, Rust and Python/TypeScript enthusiast.
 ## Hello there! 👋
-- 🧑 A 24 year old Computer Science engineer with artificial inteligence masters 🎓.
-- 🔭 I’m currently working in web as a frontend development, helping to oxidize the web world.
+- 🧑 A 25 year old Computer Science engineer with artificial inteligence masters 🎓.
+- 🔭 I’m currently working in web as a fullstack developer, helping to oxidize the web world.
 - 💬 Ask me about anything.
-- 💻 Working on a graphical engine using WebGPU.
+- 💻 Trying to create an engine using WebGPU.
 - 📫 How to reach me: Discord: mimikku, here!
 
-## 🛠 My Fluency Stack
+## 🛠 My fluency stack
 <table>
   <tr>
     <th>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-## ✨ Technologies I Enjoy
+## ✨ Technologies i enjoy
 <table>
   <tr>
     <th>
@@ -58,6 +58,9 @@
     </th>
     <th>
       Node
+    </th>
+    <th>
+      Deno
     </th>
     <th>
       React
@@ -81,7 +84,7 @@
       Vulkan
     </th>
     <th>
-      WebAssembly
+      Wasm
     </th>
   </tr>
   <tr>
@@ -90,6 +93,9 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="96">
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Deno_Logo_2024.svg/2048px-Deno_Logo_2024.svg.png" width="96">
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="96">
@@ -113,7 +119,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Vulkan_API_logo.svg">
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/37272798?v=4&s=400" width="72">
+      <img src="https://github.com/user-attachments/assets/782eaeed-8246-4deb-beba-a2c1dbe0ebfd" width="48">
     </td>
   </tr>
 </table>
