@@ -8,10 +8,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/130611478?s=280&v=4" width="96" height="96"/>
 
-<div style="width: 100%; border-radius: 4px">
-  <img src="inject.svg" style="width: 100%; border-radius:4px" alt="Click to see the source">
-</div>
-
 ## 🛠 My fluency stack
 <table>
   <tr>
