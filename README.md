@@ -6,6 +6,8 @@
 - 💻 Trying to create an engine using WebGPU.
 - 📫 How to reach me: Discord: mimikku, here!
 
+<img src="https://avatars.githubusercontent.com/u/130611478?s=280&v=4" width="96" height="96"/>
+
 ## 🛠 My fluency stack
 <table>
   <tr>
