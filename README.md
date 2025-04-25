@@ -83,6 +83,9 @@
       OpenGL
     </th>
     <th>
+      WebGPU
+    </th>
+    <th>
       Vulkan
     </th>
     <th>
@@ -116,6 +119,9 @@
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg">
+    </td>
+    <td align="center" width="96">
+      <img src="https://static.wikia.nocookie.net/logopedia/images/7/71/WebGPU_2021_%28Icon%29.svg/revision/latest?cb=20230504133538">
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Vulkan_API_logo.svg">
